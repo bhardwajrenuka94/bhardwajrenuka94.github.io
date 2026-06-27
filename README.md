@@ -4,7 +4,10 @@ Personal portfolio site for Data Analyst / Data Scientist / GenAI Engineer roles
 
 🔗 Live
 
-VersionLinkForGeneralbhardwajrenuka94.github.ioData Analyst roles — leads with SQL/Power BI/Excel workData Scientistbhardwajrenuka94.github.io/ds.htmlDS / ML / GenAI roles — leads with modeling & deployed apps
+
+General — bhardwajrenuka94.github.io — for Data Analyst roles, leads with SQL/Power BI/Excel work
+Data Scientist — bhardwajrenuka94.github.io/ds.html — for DS/ML/GenAI roles, leads with modeling & deployed apps
+
 
 🛠 Built with
 
@@ -16,9 +19,11 @@ Google Fonts (Space Grotesk / Sora, Inter, IBM Plex Mono, Caveat)
 
 📁 Structure
 
-├── index.html      # general portfolio (DA-forward)
-├── ds.html         # Data Scientist–forward version
-└── resume.pdf       # downloadable CV
+
+index.html — general portfolio (DA-forward)
+ds.html — Data Scientist–forward version
+resume.pdf — downloadable CV
+
 
 📊 Featured projects
 
