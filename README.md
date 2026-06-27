@@ -12,8 +12,8 @@ Not a Word doc. Not a PDF that goes stale the day you save it. Just HTML, scroll
 
 ## 🔗 see it live
 
-- **[bhardwajrenuka94.github.io](https://bhardwajrenuka94.github.io)** — the general version, leads with the Data Analyst work
-- **[bhardwajrenuka94.github.io/ds.html](https://bhardwajrenuka94.github.io/ds.html)** — the Data Scientist cut, leads with the models
+- **[bhardwajrenuka94.github.io](file:///D:/Renuka%20Portfolio/Renuka%20Portfolio/index.html)** — the general version, leads with the Data Analyst work
+- **[bhardwajrenuka94.github.io/ds.html](file:///D:/Renuka%20Portfolio/Renuka%20Portfolio/ds.html)** — the Data Scientist cut, leads with the models
 
 Same person, same projects — just reordered depending on who's asking.
 
